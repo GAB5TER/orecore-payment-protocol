@@ -1,8 +1,8 @@
 *.sw[a-z]
 coverage
 node_modules
-bitcore-payment-protocol.js
-bitcore-payment-protocol.min.js
+orecore-payment-protocol.js
+orecore-payment-protocol.min.js
 tests.js
 
 lib/errors/index.js
